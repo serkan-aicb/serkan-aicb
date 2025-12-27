@@ -6,4 +6,4 @@ Work centers around building scalable ZK verification pipelines, modular protoco
 
 Open to collaboration on early-stage blockchain infrastructure, zero-knowledge proof systems, verifier networks, and smart contract tooling—particularly in domains where privacy, compliance, and real-world applicability are critical.
 
-- 📫 How to reach me: serkan@blockunitlab.com
+📫 How to reach me: serkan@blockunitlab.com
